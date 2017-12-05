@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const { DateTime } = require('luxon');
 
 let argv = process.argv.slice(2);

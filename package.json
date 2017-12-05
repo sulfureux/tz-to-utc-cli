@@ -1,7 +1,7 @@
 {
   "name": "tz-to-utc-cli",
   "description": "Convert TZ to UTC number Command-Line Interface",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "index.js",
   "bin": {
     "tztoutc": "./index.js"
